@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Soham Dhakate!
 
-🎓 B.Tech Computer Science | RCOEM ’27 | SGPA: 9.7 
+🎓 B.Tech Computer Science | RCOEM ’27 | SGPA: 9.7
 💻 Full-Stack Development Enthusiast  
 🧠 Problem Solver | LeetCode 1600+
 
