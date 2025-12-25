@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Hi, I'm Soham Dhakate!
 
-<!--
-**Soham3905/Soham3905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science | RCOEM ’27 | SGPA: 9.7 
+💻 Full-Stack Development Enthusiast  
+🧠 Problem Solver | LeetCode 1600+
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I’m a third-year engineering student at RCOEM (Batch of 2027) who enjoys building things with code and solving problems.
+
+I’m interested in full-stack development and enjoy working on web applications while strengthening my problem-solving skills through regular DSA practice.
+
+---
+
+### 🛠 Tech Stack
+**Languages:** Java, JavaScript  
+**Frontend:** React  
+**Tools:** Git, GitHub, VS Code  
+**Core CS:** Data Structures & Algorithms
+
+---
+
+### 📫 Let's Connect
+- 🔗 LinkedIn: https://www.linkedin.com/in/soham-dhakate-8512042a6/
+- 🧠 LeetCode: https://leetcode.com/u/CoderSoham/
+- 💻 GitHub: https://github.com/Soham3905
+
+✨ Always learning, building and improving!
