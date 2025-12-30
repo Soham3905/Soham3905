@@ -22,7 +22,7 @@ I’m interested in full-stack development and enjoy working on web applications
 ---
 
 ### 📫 Let's Connect
-- 🔗 LinkedIn: https://www.linkedin.com/in/soham-dhakate-8512042a6/
+- 🔗 LinkedIn: https://www.linkedin.com/in/soham-dhakate/
 - 🧠 LeetCode: https://leetcode.com/u/CoderSoham/
 - 💻 GitHub: https://github.com/Soham3905
 
