@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Soham Dhakate!
 
-🎓 B.Tech Computer Science | RCOEM ’27 | CGPA: 8.97
+🎓 B.Tech Computer Science | RCOEM ’27 | CGPA: 9.0
 💻 Full-Stack Development Enthusiast  
 🧠 Problem Solver | LeetCode 1600+
 
@@ -14,10 +14,12 @@ I’m interested in full-stack development and enjoy working on web applications
 ---
 
 ### 🛠 Tech Stack
-**Languages:** Java, JavaScript  
-**Frontend:** React  
-**Tools:** Git, GitHub, VS Code  
-**Core CS:** Data Structures & Algorithms
+**Languages**: Java | JavaScript | SQL 
+**Frontend**: React.js | Redux | HTML | CSS | Tailwind CSS 
+**Backend**: Node.js | Express.js | REST APIs | JWT Authentication | RBAC 
+**Database** & ORM: MongoDB | PostgreSQL | Prisma 
+**Core Concepts**: OOPs | Data Structures & Algorithms | CRUD Operations 
+**Tools & Platforms**: Git | GitHub
 
 ---
 
